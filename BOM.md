@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [MPU6050](https://www.amazon.co.uk/MPU6050-Digital-Accelerometer-Tracking-Projects/dp/B0GRM1VH4C?source=ps-sl-shoppingads-lpcontext&smid=A13S641Z4UUX9&th=1) | Used as an Accelerometer sensor module | 1 | $5.28 | $5.28 | [GMBYLBY](https://www.amazon.co.uk/MPU6050-Digital-Accelerometer-Tracking-Projects/dp/B0GRM1VH4C?source=ps-sl-shoppingads-lpcontext&smid=A13S641Z4UUX9&th=1) |
 | **Parts subtotal** | — | — | — | **$5.28** | — |
-| **Tax & shipping** | — | — | — | **$3.99** | — |
-| **Total** | — | — | — | **$9.27** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$5.28** | — |
 
-$20.73 left of the tier's funding.
+$24.72 left of the tier's funding.
