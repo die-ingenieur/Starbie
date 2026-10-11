@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 6.17h | 2 |
+| Week 1 | Tier 1 | 6.32h | 2 |
 
 ## Contents
 
@@ -61,7 +61,7 @@ Left to do:
 
 ### 2026-10-11 – Worked on:
 
-**3.05h**
+**3.2h**
 
 Worked on:
 - cleaning up schematic
