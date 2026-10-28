@@ -30,7 +30,7 @@ const int I2C_SCL_PIN = 7;       // XIAO D5: OLED + MPU6050 SCL
 const int DHT_PIN = 3;           // XIAO D1: DHT11 data
 const int BUTTON_ONE_PIN = 4;    // XIAO D2: opens/confirms the radial menu
 const int BUTTON_TWO_PIN = 5;    // XIAO D3: shows/hides stats
-const int buzzerPin= 10
+const int buzzerPin= 10;
 // Set this to false if your submission does not have a DHT11.
 const bool USE_DHT11 = true;
 bool newMenu = false;
@@ -59,7 +59,7 @@ const int STARTING_FULLNESS = 65;
 // Set true, upload once, then set it back to false if you want a fresh pet.
 const bool RESET_SAVED_PET_ON_BOOT = false;
 
-/ Define the "Happy Birthday" melody
+// Define the "Happy Birthday" melody
 int melody[] = {
   NOTE_C4, NOTE_C4, NOTE_D4, NOTE_C4, NOTE_F4, NOTE_E4, // "Happy Birthday to You"
   NOTE_C4, NOTE_C4, NOTE_D4, NOTE_C4, NOTE_G4, NOTE_F4, // "Happy Birthday to You"
@@ -87,7 +87,7 @@ enum PetReaction {
   JUMP_REACTION,
   HEART_REACTION,
   RUN_REACTION,
-  MENU_TWO_VIEW_REACTION
+  MENU_TWO_VIEW_REACTION,
   MUSIC
 };
 
@@ -470,6 +470,7 @@ void chooseMenuItem() {
   }
   if (newMenu == true){
     currentView = MENU_TWO_VIEW;
+    newMenu=false;
   }else{
     currentView = PET_VIEW;
   }
@@ -684,7 +685,7 @@ void happybirthday(){
     delay(pauseBetweenNotes);
 
     noTone(buzzerPin);
-}
+}}
 
 void chooseMenuItem_two() {
   if (selectedMenuItem == -1) {
@@ -706,7 +707,7 @@ void chooseMenuItem_two() {
   } else if (item.reaction == MUSIC) {
     if (item.joyChange > 60 ){
       happybirthday();
-    }else (item.joyChange <20){
+    }else {
       sadtrumpet();
     }
   } else {
@@ -767,7 +768,7 @@ void Menu_two(){
 
 
 void setup() {
-  pinMode(buzzerPIN, OUTPUT);
+  pinMode(buzzerPin, OUTPUT);
   Serial.begin(115200);
   Wire.begin(I2C_SDA_PIN, I2C_SCL_PIN);
   setUpButton(buttonOne);
@@ -812,9 +813,4 @@ void loop() {
 
   drawCurrentView();
   delay(16);  // Smooth display updates without making the code complicated.
-}
-
-
-void checkcollision(){
-  
 }
