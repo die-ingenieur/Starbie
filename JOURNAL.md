@@ -110,7 +110,7 @@ What i did:
 
 ![image](https://halflife.hackclub-assets.com/sessions/427hODD7h4ylsfNe58I5XNpn8qGPPHsr/2236fc63d5689e64b29f1d0b92860d218f85e38d9e796d55941dcac0e10f91ad.png)
 
-1h -new picture + making of the pet
+1h. 9min -new picture + making of the pet
 The editor kept failing to properly load my picture in for me to create the new character/pet data. So it took me around and hour to make .
 
 This is what i kept getting:
