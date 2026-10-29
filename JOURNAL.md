@@ -110,7 +110,7 @@ What i did:
 
 ![image](https://halflife.hackclub-assets.com/sessions/427hODD7h4ylsfNe58I5XNpn8qGPPHsr/2236fc63d5689e64b29f1d0b92860d218f85e38d9e796d55941dcac0e10f91ad.png)
 
-1h. 9min -new picture + making of the pet
+1h. 2min -new picture + making of the pet
 The editor kept failing to properly load my picture in for me to create the new character/pet data. So it took me around and hour to make .
 
 This is what i kept getting:
@@ -120,6 +120,6 @@ I also made the pet using an editor and not a premade model so that is also inlc
 
 ![image](https://halflife.hackclub-assets.com/sessions/427hODD7h4ylsfNe58I5XNpn8qGPPHsr/4996a4ff9ca75baa98c5a1c4ab6531fa577d41690978f4ff34476bf8377f9611.png)
 
-30 min adding new images to the silkscreen to add personality
+37 min adding new images to the silkscreen to add personality+ for clarity on parts
 
 ![image](https://halflife.hackclub-assets.com/sessions/427hODD7h4ylsfNe58I5XNpn8qGPPHsr/5204bd4367a1b306cbae6289dd9c05bdefd78920244db1d3cfb7fc6d444e0935.png)
