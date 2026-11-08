@@ -24,7 +24,9 @@ What i wanted from my toy was to be able to have more functions,
 ## The schematics:
 <img width="724" height="514" alt="image" src="https://github.com/user-attachments/assets/f4331cdc-8976-40a3-bffd-8502e97ed1a7" />
 
-
+|w|
+|-|
+|s|
 Item,Qty,Supplier,Cost/item,Total Cost,link
 MPU6050,1,GMBYLBY,$3.99,$3.99,https://www.amazon.co.uk/MPU6050-Digital-Accelerometer-Tracking-Projects/dp/B0GRM1VH4C?source=ps-sl-shoppingads-lpcontext&smid=A13S641Z4UUX9&th=1
 keyboard switch,1,Desenda,$3.00,$3.00,https://www.amazon.co.uk/Desenda-Replacement-Mechanical-Keyboard-Dustproof/dp/B0DSJ21RDS/ref=pd_sim_d_sccl_3_6/261-2159380-4266123?content-id=amzn1.sym.185c6ea3-e074-44af-852a-982358258ef1&psc=1%20keyboard%20key
