@@ -32,4 +32,5 @@ What i wanted from my toy was to be able to have more functions,
 XIAO-ESP32-C3|1|Seeed|$9.79|$9.79|https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html|
 DHT11 sensor|1|Electrones|$5.28|$5.28|https://www.amazon.co.uk/Electrones-Temperature-Relative-Humidity-compatible/dp/B0DVTJ3L13/ref=sr_1_2?crid=1BMNJSXYS738B&s=industrial&sprefix=1+dht11+seno%2Cindustrial%2C786&sr=1-2|
 circuit board|1|JCLPCB|$10.00|$10.00|https://www.pcbway.com/QuickOrderOnline.aspx|
-Estimated total shipping|1,,,$0.00,
+
+Estimated total shipping included in prices
