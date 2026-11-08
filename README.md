@@ -24,11 +24,10 @@ What i wanted from my toy was to be able to have more functions,
 ## The schematics:
 <img width="724" height="514" alt="image" src="https://github.com/user-attachments/assets/f4331cdc-8976-40a3-bffd-8502e97ed1a7" />
 
-|w|
-|-|
-|s|
-Item,Qty,Supplier,Cost/item,Total Cost,link
-MPU6050,1,GMBYLBY,$3.99,$3.99,https://www.amazon.co.uk/MPU6050-Digital-Accelerometer-Tracking-Projects/dp/B0GRM1VH4C?source=ps-sl-shoppingads-lpcontext&smid=A13S641Z4UUX9&th=1
+
+|Item|Qt|,Supplie|,Cost/item|Total Cost|link|
+|----|--|--------|-----------|----------|---|
+|MPU6050|1|GMBYLB|,$3.99|$3.99|https://www.amazon.co.uk/MPU6050-Digital-Accelerometer-Tracking-Projects/dp/B0GRM1VH4C?source=ps-sl-shoppingads-lpcontext&smid=A13S641Z4UUX9&th=1|
 keyboard switch,1,Desenda,$3.00,$3.00,https://www.amazon.co.uk/Desenda-Replacement-Mechanical-Keyboard-Dustproof/dp/B0DSJ21RDS/ref=pd_sim_d_sccl_3_6/261-2159380-4266123?content-id=amzn1.sym.185c6ea3-e074-44af-852a-982358258ef1&psc=1%20keyboard%20key
 XIAO-ESP32-C3,1,Seeed,$9.79,$9.79,https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html
 DHT11 sensor,1,Electrones,$5.28,$5.28,https://www.amazon.co.uk/Electrones-Temperature-Relative-Humidity-compatible/dp/B0DVTJ3L13/ref=sr_1_2?crid=1BMNJSXYS738B&s=industrial&sprefix=1+dht11+seno%2Cindustrial%2C786&sr=1-2
