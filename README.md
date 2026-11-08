@@ -23,7 +23,9 @@ What i wanted from my toy was to be able to have more functions,
 
 ## The schematics:
 <img width="724" height="514" alt="image" src="https://github.com/user-attachments/assets/f4331cdc-8976-40a3-bffd-8502e97ed1a7" />
-
+|name|
+|----|
+|VV  |
 
 Item,Qty,Supplier,Cost/item,Total Cost,link
 MPU6050,1,GMBYLBY,$3.99,$3.99,https://www.amazon.co.uk/MPU6050-Digital-Accelerometer-Tracking-Projects/dp/B0GRM1VH4C?source=ps-sl-shoppingads-lpcontext&smid=A13S641Z4UUX9&th=1
