@@ -17,7 +17,17 @@ What i wanted from my toy was to be able to have more functions,
   - I also changed the code to include more menu items for the user to go through like
       -  An option to change the look of your pet
       -  An option to play music based on your pet's stats
+## what it does:
+- When you plug into power through the usb, it turns on the oled screen
+- this brings a mini pet into the world
+- there are two buttons on the board
+      - one is used to show the pets stats like energy, sleep, love ,etc
+      - one bring up a menu of 4 options, allowing you to choose options to boost certain stats + animation. One          option gives you the ability to go to a second menu which allows you to switch the avatar of your pet and         play music
 
+## how to make:
+- the gerber files(files telling companies how to make the pcb) are already placed in production, export them and send them to an online pcb maker (in this case i used pcbway or jlcpcb as its cheap). Warning be wary of tarrifs, customs and taxes before you order for your specific country
+- buy all the components, they are all through holes so it should be easy to solder(you need to solder them)
+- using an arduino ino editor, set it up for the xiao-esp32-C3 -the microcontroller we used here-  and download(or copy and paste the code into the editor upload it to the microcontroller.
 ## The board:
 <img width="471" height="472" alt="image" src="https://github.com/user-attachments/assets/b658b68b-ea65-4f6c-9128-ee02b2b2c6f5" />
 
