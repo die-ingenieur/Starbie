@@ -36,12 +36,17 @@ What i wanted from my toy was to be able to have more functions,
 <img width="724" height="514" alt="image" src="https://github.com/user-attachments/assets/f4331cdc-8976-40a3-bffd-8502e97ed1a7" />
 
 
-|Item|Qt|Supplie|Cost/item|Total Cost|link|
-|----|--|--------|-----------|----------|---|
-|MPU6050|1|GMBYLB|$3.99|$3.99|https://www.amazon.co.uk/MPU6050-Digital-Accelerometer-Tracking-Projects/dp/B0GRM1VH4C?source=ps-sl-shoppingads-lpcontext&smid=A13S641Z4UUX9&th=1|
-|keyboard switch|1|Desenda|$3.00|$3.00|https://www.amazon.co.uk/Desenda-Replacement-Mechanical-Keyboard-Dustproof/dp/B0DSJ21RDS/ref=pd_sim_d_sccl_3_6/261-2159380-4266123?content-id=amzn1.sym.185c6ea3-e074-44af-852a-982358258ef1&psc=1%20keyboard%20key|
-XIAO-ESP32-C3|1|Seeed|$9.79|$9.79|https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html|
-DHT11 sensor|1|Electrones|$5.28|$5.28|https://www.amazon.co.uk/Electrones-Temperature-Relative-Humidity-compatible/dp/B0DVTJ3L13/ref=sr_1_2?crid=1BMNJSXYS738B&s=industrial&sprefix=1+dht11+seno%2Cindustrial%2C786&sr=1-2|
-circuit board|1|JCLPCB|$10.00|$10.00|https://www.pcbway.com/QuickOrderOnline.aspx|
+## Bill of Materials
 
-Estimated total shipping included in prices
+| Item | Qty | Supplier | Cost/item | Total cost | Link |
+|---------|--:|------------------------|------:|------:|--------|
+| MPU6050 | 1 | SZHJW Technology Store| $1.55 | $1.55 | [AliExpress](https://www.aliexpress.com/item/1005010057794277.html) |
+| Keyboard switch | 1 | Dropshipping Daily Life Pro Store| $1.76 | $1.76 | [AliExpress](https://www.aliexpress.com/item/1005012157731141.html) |
+| XIAO ESP32-C3 | 1 |ALL MY Store| $9.49 | $9.49 | [AliExpress](https://www.aliexpress.com/item/1005007084388623.html) |
+| DHT11 sensor | 1 |SZHJW Technology Store| $1.06 | $1.06 | [AliExpress](https://www.aliexpress.com/item/1005010175387094.html) |
+| Circuit board | 1 | JLCPCB | $10.00 | $10.00 | [PCBWay](https://www.pcbway.com/QuickOrderOnline.aspx) |
+| Keyboard caps | 1 |SZElectronic Store| $2.36 | $2.36 | [AliExpress](https://www.aliexpress.com/item/1005010720096151.html) |
+
+**Estimated component total: $26.22**
+
+Estimated shipping is $0.00 , may vary in supplier.
